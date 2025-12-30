@@ -1,0 +1,11 @@
+node_modules/
+.expo/
+dist/
+web-build/
+.history/
+.vscode/
+.env*
+*.tsbuildinfo
+.DS_Store
+*.pem
+*.orig.*
